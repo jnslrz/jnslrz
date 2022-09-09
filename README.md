@@ -2,14 +2,14 @@
 
 Hey. I'm Jon.
 
-* 🔐 I currently work as an cyber security analyst for a software company.
-* I think computers and the internet are rad, and have always loved them.
-* I'm currently learning Python.
+* 🔐 I currently work as a cyber security analyst.
+* 🖥️ I think computers and the internet are rad, and have always loved them.
+* 🐍 I'm currently learning Python.
 
 **Contact me:**
 * Email: jon@slrz.org
-* Website: [slrz.org](slrz.orgz)
-* Twitter: [@jnslrz]()
+* Website: slrz.org
+* Twitter: @jnslrz
 
 <!--
 **jnslrz/jnslrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
