@@ -8,8 +8,8 @@ Hey. I'm Jon.
 
 **Contact me:**
 * Email: jon@slrz.org
-* Website: slrz.org
-* Twitter: @jnslrz
+* Website: [slrz.org](https://slrz.org/)
+* Twitter: [@jnslrz](https://twitter.com/jnslrz)
 
 <!--
 **jnslrz/jnslrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
