@@ -8,7 +8,7 @@ Hey. I'm Jon.
 
 **Contact me:**
 * Email: jon@slrz.org
-* Website: [slrz.org](https://slrz.org/)
+* Web: [slrz.org](https://slrz.org/)
 * Twitter: [@jnslrz](https://twitter.com/jnslrz)
 
 <!--
