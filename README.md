@@ -3,7 +3,7 @@
 Hey. I'm Jon.
 
 * 🔐 I currently work as a cyber security analyst.
-* 🖥️ I think computers and the internet are rad, and have always loved them.
+* 🖥️ I think computers and the internet are rad.
 * 🐍 I'm currently learning Python.
 
 **Contact me:**
