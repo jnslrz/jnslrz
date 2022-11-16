@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
-Hey. I'm Jon.
+I'm Jon.
 
 * 🔐 I currently work as a cyber security analyst.
 * 🖥️ I think computers and the internet are rad.
@@ -9,7 +9,6 @@ Hey. I'm Jon.
 **Contact me:**
 * Email: jon@slrz.org
 * Web: [slrz.org](https://slrz.org/)
-* Twitter: [@jnslrz](https://twitter.com/jnslrz)
 
 <!--
 **jnslrz/jnslrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
